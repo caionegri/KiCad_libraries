@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATMEGA168A-P
+D 8-bit AVR MCU
+K mcu microchip atmel 8bit avr atmega
+$ENDCMP
+#
+#End Doc Library

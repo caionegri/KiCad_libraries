@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NOKIA_5110
+D 84x48 graphic reflective LCD display using the PCD8544 controller/driver
+K display lcd graphic pcd8544 nokia 5110
+$ENDCMP
+#
+#End Doc Library
